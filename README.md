@@ -4,7 +4,7 @@ My passion and interest for science and technology started at the age of 5. I wa
 
 My first actual programming experience started when I left school at the age of 16, where I had completed a 2 year diploma in Electronics and Electrical Engineering and learned how to code in Turbo Pascal and assembly language for microcontrollers. 
 
-My passion and interested for technology eventually resulted in me graduating from University in Electrnics and Electrical Engineering where I had specialised in Embedded Software Engineering. 
+My passion and interested for technology eventually resulted in me graduating from University in 2014 with a degree in Electrnics and Electrical Engineering, where I had majored in Embedded Software Engineering. 
 
 
 <!--
