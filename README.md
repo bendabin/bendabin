@@ -1,4 +1,13 @@
 ### Hello from planet Earth! 🌎 I'm Ben. 
+
+My passion and interest for science and technology started at the age of 5. I was always interested in knowing how things worked. I would often disassemble my favourite toys because I was interested in knowing what the internal components were and how they worked. The toys ranged from trainsets to small things such as calculators and tamagotchi(a popular virtual egg pet you that every 90's child had). 
+
+My passion for coding 
+
+My first interests was Sega Megadrive Sonic the Hedgehog video games and strategy based computer games like Command and Conquer.  
+
+
+
 <!--
 **bendabin/bendabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
