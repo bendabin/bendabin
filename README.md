@@ -6,9 +6,18 @@ My passion and interest for science and technology started at the age of 5. I wa
 
 I have been living in Japan since March 2020 and currently working as an ALT at an Elementary School. I also work freelance as a Software Developer and in my freetime I study new programming techniques and algorithms. My main areas of interest are full stack web development. Please have a look through my portfolio to see what I have been working on. 
 
-Feel free to contact me if you have any questions I'll look forward to hearing for you and it would be nice to get the chance to work on some interesting projects together. 
+Feel free to contact me if you have any questions I'll look forward to hearing from you and it would be nice to get the chance to work on some interesting projects together. 
+
+
+* 🗻💻 **Hobbies:-** Studying Japanese, hiking, DIY, programming projects. 
+* 🔎 Currently looking for full-time work as a Full-Stack Web Developer and to contribute to open source projects.  
+* ✍️ To contact me please find me on LinkedIn!
 
 - - - -
+
+
+
+
 
 
 <!--
