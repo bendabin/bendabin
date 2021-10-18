@@ -8,12 +8,15 @@ My first actual programming experience started when I left school at the age of 
 
 I first learned how to program in C++, after doing a one week work experience with a small technology company at the age of 17. 
 
-My passion and interested for technology eventually resulted in me graduating from University in 2014 with a degree in Electronics and Electrical Engineering, where I had majored in Embedded Software Engineering. 
+My passion and interested for technology eventually resulted in graduating from University in 2014 with a degree in Electronics and Electrical Engineering, where I had majored in Embedded Software Engineering. 
 
-After graduating fron university I worked for a number of companies, with the first company being a company that specialises in the manufacturing of industrial equipment used in the food processing industry. 
+After graduating fron university I worked for a number of companies, with the first company being a company that specialised in the manufacturing of industrial equipment used in the food processing industry. 
 
-From 2017 to 2019, I trained and worked as a trainee electrician after becoming interested in electricial power wiring in homes and commercial buildings. 
+From 2017 to 2019 I worked as a trainee electrician after becoming interested in electricial power used in homes and commercial buildings. I was a keen DIY enthuasist and many of my favourite hobbies consisted of rewiring my home and family home. 
 
+I have been living in Japan since March 2020 and currently working as an ALT at an Elementary School. I also work freelance as a Software Developer and in my freetime I study new programming techniques and algorithms. Please have a look through my portfolio to see what I have been working on.
+
+Feel free to contact me if you have any questions I'll look forward to hearing for you and it would be nice to get the chance to work on some interesting projects together. 
 
 
 <!--
